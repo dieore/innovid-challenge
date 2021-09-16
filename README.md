@@ -1,5 +1,11 @@
 ![Innovid](./assets/logo.jpg "Innovid")
 
+# Datos
+Twitch: widoski
+Discord: DiegoOre
+Contacto: orefici.diego@gmail.com
+
+
 # Innovid challenge: Load balancer
 Tenemos que crear una aplicación que muestre la carga de nuestros servidores 1, 2, 3 y 4, lamentablemente nuestro backend no tiene implementado un método para obtenerlos todos al mismo tiempo así que hay que traerlos de a uno, en paralelo.
 
